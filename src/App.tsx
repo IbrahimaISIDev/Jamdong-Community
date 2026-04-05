@@ -1,8 +1,8 @@
 import Hero from './components/Hero';
 import Identity from './components/Identity';
 import About from './components/About';
-import Partners from './components/Partners';
 import Services from './components/Services';
+import Partners from './components/Partners';
 import Footer from './components/Footer';
 
 function App() {
@@ -11,8 +11,8 @@ function App() {
       <Hero />
       <Identity />
       <About />
-      <Partners />
       <Services />
+      <Partners />
       <Footer />
     </div>
   );
