@@ -40,7 +40,7 @@ export default function Services() {
       title: 'IMPRESSION / SÉRIGRAPHIE',
       description: 'Un support physique, ça se touche, ça se garde. Nous concevons et produisons tous vos supports imprimés — flyers, signalétique, textiles — pour une présence tangible et professionnelle.',
       details: 'Papier, Signalétique, Textiles, Goodies',
-      image: '/images/Impression /Impression-sérigraphie.PNG'
+      image: '/images/Impression-sérigraphie.PNG'
     },
     {
       icon: Palette,
