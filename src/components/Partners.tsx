@@ -1,19 +1,19 @@
 export default function Partners() {
   const partners = [
     { name: 'DAKAR 2026', logo: '/partners/Dakar 2026.png' },
-    { name: 'UN', logo: '/partners/ONU.png' },
+    { name: 'UN', logo: '/partners/Flag_of_the_United_Nations.png' },
     { name: 'EU', logo: '/partners/DER.png' },
     { name: 'GIZ', logo: '/partners/Giz.png' },
     { name: 'Adepme', logo: '/partners/Adepme.png' },
     { name: 'KIRENE ORANGE', logo: '/partners/Kirène avec orange.png' },
-    { name: 'SAMSUNG', logo: '/partners/samsung.png' },
+    { name: 'SAMSUNG', logo: '/partners/samsung-logo-png_seeklogo-122017.png' },
     { name: 'Orange', logo: '/partners/Orange logo.png' },
     { name: 'GROUPE KIRENE', logo: '/partners/Groupe Kirène.png' },
-    { name: 'Emirates', logo: '/partners/EMIRATES.png' },
+    { name: 'Emirates', logo: '/partners/Emirates_banner_logo.png' },
     { name: 'YAMAHA', logo: '/partners/YAMAHA.png' },
     { name: 'Pressea FRESH', logo: '/partners/pressea fresh.png' },
     { name: 'UBA', logo: '/partners/UBA.png' },
-    { name: 'EIFFAGE', logo: '/partners/Eiffage.png' }
+    { name: 'EIFFAGE', logo: '/partners/Eiffage-Logo.png' }
   ];
 
   return (
