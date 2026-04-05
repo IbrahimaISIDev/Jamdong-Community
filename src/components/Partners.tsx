@@ -4,7 +4,7 @@ export default function Partners() {
     { name: 'UN', logo: '/partners/Flag_of_the_United_Nations.png' },
     { name: 'EU', logo: '/partners/DER.png' },
     { name: 'GIZ', logo: '/partners/Giz.png' },
-    { name: 'Adepme', logo: '/partners/Adepme.png' },
+    { name: 'Adepme', logo: '/partners/Logo_Portrait.png' },
     { name: 'KIRENE ORANGE', logo: '/partners/Kirène avec orange.png' },
     { name: 'SAMSUNG', logo: '/partners/samsung-logo-png_seeklogo-122017.png' },
     { name: 'Orange', logo: '/partners/Orange logo.png' },
